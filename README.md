@@ -8,4 +8,4 @@
 
 # node --watch server
 
-<img src="img/Captura Clone Netflix"/>
+<img src="img/Captura Clone Netflix.png"/>

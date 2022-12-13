@@ -7,3 +7,5 @@
 # ---ouvir o server com node
 
 # node --watch server
+
+​<img src="img/Captura Clone Netflix"/>
